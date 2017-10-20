@@ -1,0 +1,10 @@
+<html>
+	<head>
+	  <meta charset="UTF-8">
+	  <script src="funcoes.js"></script>
+	  <script src="meiavida.js"></script>	  
+	</head>
+	<body>
+		Olá mundo!
+	</body>
+</html>
